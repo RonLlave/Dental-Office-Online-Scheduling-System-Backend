@@ -28,5 +28,6 @@ dentist: ObjectId (ref: Dentist),
 date: String (YYYY-MM-DD),
 time: String (HH:mm)
 
+# Additional Notes
 Remarks:
 Didn't make to run it in the AWS Kurbenetes because I ran out of time for the submission. Kindly test this locally.
